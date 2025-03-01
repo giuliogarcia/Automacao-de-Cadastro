@@ -9,10 +9,10 @@ Este é um projeto de automação para cadastrar produtos em um formulário, ond
 ## 🛠 Como Usar
 
 1. Clone o repositório:
-   git clone https://github.com/Guiilorgarcia/automacao-de-cadastro.git
+   git clone https://github.com/giuliogarcia/Automacao-de-Cadastro.git
 
 2. Entre no diretório do projeto:
-   cd automacao-de-cadastro
+   cd Automacao-de-Cadastro
 
 3. Execute o projeto
    Abra o arquivo codigo.py e execute em uma IDE de sua preferência
