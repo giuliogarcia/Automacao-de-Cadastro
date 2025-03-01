@@ -19,6 +19,4 @@ Este é um projeto de automação para cadastrar produtos em um formulário, ond
 
 ## 💻 Exemplo de funcionamento
 
-![alt text](image.png)
-
-![alt text](image-1.png)
+![alt text](gif_automacao.gif)
