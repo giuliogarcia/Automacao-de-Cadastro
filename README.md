@@ -17,6 +17,6 @@ Este é um projeto de automação para cadastrar produtos em um formulário, ond
 3. Execute o projeto
    Abra o arquivo codigo.py e execute em uma IDE de sua preferência
 
-## 💻 Exemplo de funcionamento
+## 💻 Funcionamento
 
 ![alt text](gif_automacao.gif)
