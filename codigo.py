@@ -17,13 +17,14 @@ pyautogui.PAUSE = 0.5
 # pyautogui.PAUSE -> server para dar um tempo a cada comando
 # Dica comando ctrl + L seleciona a barra do navegador para inserir o site
 
-
 # Passo 1: Abrir o navegador chrome
 pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
+time.sleep(2)
 
 # Entrar no link
+pyautogui.hotkey("ctrl", "l")
 pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 pyautogui.press("enter")
 time.sleep(2)
